@@ -14,7 +14,7 @@
     NSString *_serialNumber;
     int _valueInDollars;
     NSDate *_dateCreated;
-    int _gitTempMaster;
+    int _gitTempBranch;
 }
 
 +(instancetype)randomItem;
